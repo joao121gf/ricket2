@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ricket2/static/css/main.4171f670.css",
+    "main.js": "/ricket2/static/js/main.48603ff4.js",
+    "static/media/background-desktop.png": "/ricket2/static/media/background-desktop.aaca402b029d6080d68d.png",
+    "index.html": "/ricket2/index.html",
+    "main.4171f670.css.map": "/ricket2/static/css/main.4171f670.css.map",
+    "main.48603ff4.js.map": "/ricket2/static/js/main.48603ff4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4171f670.css",
+    "static/js/main.48603ff4.js"
+  ]
+}
