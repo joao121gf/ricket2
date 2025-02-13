@@ -1,0 +1,86 @@
+@import url("https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap");
+
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+body {
+  background-image: url(../images/background-desktop.png);
+  font-family: "Urbanist", serif;
+}
+.tittle {
+  font-size: 50px;
+  color: yellow;
+  padding-top: 130px;
+  margin-bottom: 20px;
+}
+
+h4 {
+  font-size: 21px;
+  width: 60%;
+  margin: 0 auto;
+  padding-bottom: 50px;
+  font-weight: 400;
+}
+
+.box-each {
+  display: flex;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  font-size: 20px;
+  padding-bottom: 21px;
+}
+input {
+  background-color: #00000000;
+  outline: none;
+  border: 1px solid #ffffff;
+  border-radius: 20px;
+  padding: 10px 20px;
+  font-weight: 500;
+  color: white;
+}
+button {
+  background-color: #e9e940;
+  padding: 11px 35px;
+  border: none;
+  border-radius: 20px;
+  font-size: 16px;
+  font-weight: 600;
+  color: black;
+  margin-top: 32px;
+}
+
+.box-card {
+  position: absolute;
+  top: 32vh;
+  left: 32vw;
+  background-color: #504bb5;
+  width: 632px;
+  height: 328px;
+  border-radius: 20px;
+  align-items: center;
+  justify-content: center;
+  display: none;
+  transition: all 0.3sease;
+  display: flex;
+  padding-left: 80px;
+  color: white;
+  font-size: 20px;
+}
+.objects {
+  display: block;
+  width: 80%;
+  padding: 7px;
+  text-align: left;
+  padding-left: 41px;
+}
+.objects p {
+  padding: 10px 0px;
+}
+.photoUser {
+  width: 245px;
+  border-radius: 28px;
+}
